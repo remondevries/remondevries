@@ -2,36 +2,13 @@
 <hr />
 Having a passion for programming and using technology to make things easier on humans. Thats what I have been working on in the last 15+ years. Resulting into a wide range of contributions in the field of technology. From small to large scale projects. Below is a small overview of all the things I been fortunate enough to been involved in.
 
-<p>
-  <center>
-    <a href="https://www.twitter.com/" rel="nofollow">
-      <img align="left" height="16px" width="16px" alt="Twitter" src="https://github.com/remondevries/remondevries/raw/main/logo-twitter.svg?raw=true" style="max-width: 100%;">
-    </a>
-    <a href="https://www.linkedin.com/" rel="nofollow">
-      <img align="left" height="16px" width="16px" alt="LinkedIn" src="https://github.com/remondevries/remondevries/raw/main/logo-linkedin.svg?raw=true" style="max-width: 100%;">
-    </a>
-    <a href="https://www.instagram.com/" rel="nofollow">
-      <img align="left" height="16px" width="16px" alt="Instagram" src="https://github.com/remondevries/remondevries/raw/main/logo-instagram.svg?raw=true" style="max-width: 100%;">
-    </a>
-    <a href="https://www.dribble.com/" rel="nofollow">
-      <img align="left" height="16px" width="16px" alt="Dribble" src="https://github.com/remondevries/remondevries/raw/main/logo-dribble.svg?raw=true" style="max-width: 100%;">
-    </a>
-    <a href="https://www.behance.com/" rel="nofollow">
-      <img align="left" height="16px" width="16px" alt="Behance" src="https://github.com/remondevries/remondevries/raw/main/logo-behance.svg?raw=true" style="max-width: 100%;">
-    </a>
-    <a href="https://www.discord.com/" rel="nofollow">
-      <img align="left" height="16px" width="16px" alt="Discord" src="https://github.com/remondevries/remondevries/raw/main/logo-discord.svg?raw=true" style="max-width: 100%;">
-    </a>
-  </center>
-</p>
-
 <br /><br />
 <h2>Background</h2>
 
 <p>🔭 I'm a freelance consultant and founder of Lemo-Design agency with over 15+ years of experience in the field of technology. Ranging from UI/UX to online strategies and full stack programming.</p>
 <p>🌱 I've made several contributions to open source, to tools such as WordPress, Johns Hopkins University (CSSE), and many more.</p>
 <p>⚡ Besides contributing to open source I enjoy software development in general and are always interesting in exploring the dynamics between technology and humanity.</p>
-<p>💬 You can get in touch with me by email at hello@remondevries.com, Twitter (@remondevries), and LinkedIn.</p>
+<p>💬 You can get in touch with me by email at <a href="mailto:hello@remondevries.com" rel="nofollow">hello@remondevries.com</a>, <a href="https://twitter.com/remondevries" rel="nofollow">Twitter (@remondevries)</a>, and <a href="https://linkedin.com/in/remondevries" rel="nofollow">LinkedIn</a>.</p>
 
 <br />
 <h2>Clients & Projects</h2>
@@ -73,28 +50,40 @@ Having a passion for programming and using technology to make things easier on h
 
 <br />
 <h2>Articles I wrote</h2>
-In the overview below you will find the articles of my <a href="https://blog.remondevries.com" rel="nofollow">blog</a>:
+In the overview below you will find the articles of my <a href="https://remondevries.com/blog" rel="nofollow">blog</a>:
 
 <ul>
   <li>
-  📄 <a href="https://nike.com" rel="nofollow">Post #3 title</a> (2020-01-03)
+    📄 <a href="https://remondevries.com/2017/09/15/much-website-cost" rel="nofollow">How much does a website cost</a>
   </li>
   <li>
-  📄 <a href="https://nike.com" rel="nofollow">Post #1 title</a> (2020-01-02)
+    📄 <a href="https://remondevries.com/2017/09/15/can-expect-client" rel="nofollow">What can you expect as a client?</a>
   </li>
   <li>
-  📄 <a href="https://nike.com" rel="nofollow">Post #1 title</a> (2020-01-01)
+    📄 <a href="https://remondevries.com/2017/09/15/build-stories-not-brands" rel="nofollow">Build Stories, Not Brands</a>
   </li>
 </ul>
 
 <br />
-<h2>Credit</h2>
-I would like to thank everyone who has supported me in my career so far. I should mention at least a few of them in partictulair:
+<h2>Say hi 👋🏻</h2>
+If you would like to support my work in open-source, consider sponsoring me or get in touch with me via <a href="mailto:hello@remondevries.com" rel="nofollow">email</a>, <a href="https://twitter.com/remondevries" rel="nofollow">Twitter</a>, or <a href="https://www.linkedin.com/in/remondevries" rel="nofollow">LinkedIn</a>.
 
-<ul>
-  <li>xxx</li>
-  <li>xxx</li>
-  <li>xxx</li>
-</ul>
-
-If you would like to support my work in open-source, consider sponsoring me or get in touch with me via <a href="#" rel="nofollow">email</a>, <a href="#" rel="nofollow">Twitter</a>, or <a href="#" rel="nofollow">LinkedIn</a>.
+<p>
+  <center>
+    <a href="https://twitter.com/remondevries" rel="nofollow">
+      <img align="left" height="16px" width="16px" alt="Twitter" src="https://github.com/remondevries/remondevries/raw/main/logo-twitter.svg?raw=true" style="max-width: 100%;">
+    </a>
+    <a href="https://www.linkedin.com/in/remondevries" rel="nofollow">
+      <img align="left" height="16px" width="16px" alt="LinkedIn" src="https://github.com/remondevries/remondevries/raw/main/logo-linkedin.svg?raw=true" style="max-width: 100%;">
+    </a>
+    <a href="https://www.instagram.com/remon_devries" rel="nofollow">
+      <img align="left" height="16px" width="16px" alt="Instagram" src="https://github.com/remondevries/remondevries/raw/main/logo-instagram.svg?raw=true" style="max-width: 100%;">
+    </a>
+    <a href="https://dribbble.com/remondevries" rel="nofollow">
+      <img align="left" height="16px" width="16px" alt="Dribbble" src="https://github.com/remondevries/remondevries/raw/main/logo-dribble.svg?raw=true" style="max-width: 100%;">
+    </a>
+    <a href="https://www.behance.net/remondevries" rel="nofollow">
+      <img align="left" height="16px" width="16px" alt="Behance" src="https://github.com/remondevries/remondevries/raw/main/logo-behance.svg?raw=true" style="max-width: 100%;">
+    </a>
+  </center>
+</p>
