@@ -2,7 +2,6 @@
 <hr />
 Having a passion for programming and using technology to make things easier on humans. Thats what I have been working on in the last 15+ years. Resulting into a wide range of contributions in the field of technology. From small to large scale projects. Below is a small overview of all the things I been fortunate enough to been involved in.
 
-
 <p>
   <center>
     <a href="https://www.twitter.com/" rel="nofollow">
@@ -69,9 +68,9 @@ Having a passion for programming and using technology to make things easier on h
   Creating a go market strategy for product launch.<br/><br/><br/>
 </p>
 
-<hr />
+![#f03c15](https://placehold.co/100000x1/424951/424951.png)
 <img align="left" height="24px" width="24px" alt="Tip:" src="https://github.com/remondevries/remondevries/raw/main/icon-bulp.svg" style="max-width: 100%;">Please find me on LinkedIn for a more detailed description of my full work experience, education and certifications.
-<hr />
+![#f03c15](https://placehold.co/100000x1/424951/424951.png)
 
 <h2>Articles I wrote</h2>
 In the overview below you will find the articles of my <a href="https://blog.remondevries.com" rel="nofollow">blog</a>:
