@@ -33,6 +33,7 @@ Having a passion for programming and using technology to make things easier on h
 <p>⚡ Besides contributing to open source I enjoy software development in general and are always interesting in exploring the dynamics between technology and humanity.</p>
 <p>💬 You can get in touch with me by email at hello@remondevries.com, Twitter (@remondevries), and LinkedIn.</p>
 
+<br />
 <h2>Clients & Projects</h2>
 
 <p dir="auto">
@@ -68,10 +69,9 @@ Having a passion for programming and using technology to make things easier on h
   Creating a go market strategy for product launch.<br/><br/><br/>
 </p>
 
-![#f03c15](https://placehold.co/100000x1/424951/424951.png)
-<img align="left" height="24px" width="24px" alt="Tip:" src="https://github.com/remondevries/remondevries/raw/main/icon-bulp.svg" style="max-width: 100%;">Please find me on LinkedIn for a more detailed description of my full work experience, education and certifications.
-![#f03c15](https://placehold.co/100000x1/424951/424951.png)
+> <img align="left" height="24px" width="24px" alt="Tip:" src="https://github.com/remondevries/remondevries/raw/main/icon-bulp.svg" style="max-width: 100%;">  Please find me on LinkedIn for a more detailed description of my full work experience, education and certifications.
 
+<br />
 <h2>Articles I wrote</h2>
 In the overview below you will find the articles of my <a href="https://blog.remondevries.com" rel="nofollow">blog</a>:
 
@@ -87,6 +87,7 @@ In the overview below you will find the articles of my <a href="https://blog.rem
   </li>
 </ul>
 
+<br />
 <h2>Credit</h2>
 I would like to thank everyone who has supported me in my career so far. I should mention at least a few of them in partictulair:
 
