@@ -50,17 +50,18 @@ Having a passion for programming and using technology to make things easier on h
 
 <br />
 <h2>Articles I wrote</h2>
-In the overview below you will find the articles of my <a href="https://remondevries.com/blog" rel="nofollow">blog</a>:
+In the overview below you will find the articles of my <a href="https://remondevries.medium.com" rel="nofollow">blog</a>:
 
 <ul>
   <li>
-    📄 <a href="https://remondevries.com/2017/09/15/much-website-cost" rel="nofollow">How much does a website cost</a>
+    📄 <a href="https://remondevries.medium.com/build-stories-not-brands-7f256bf6fd3b" rel="nofollow">Build Stories Not Brands</a>
   </li>
   <li>
-    📄 <a href="https://remondevries.com/2017/09/15/can-expect-client" rel="nofollow">What can you expect as a client?</a>
+    📄 <a href="https://remondevries.medium.com/a-successfull-project-978d75ab06ef" rel="nofollow">A Successfull Project</a>
   </li>
   <li>
-    📄 <a href="https://remondevries.com/2017/09/15/build-stories-not-brands" rel="nofollow">Build Stories, Not Brands</a>
+    📄 <a href="https://remondevries.medium.com/simple-simplicity-does-not-exists-9d7c23c71a32" rel="nofollow">Simple simplicity does not exist
+</a>
   </li>
 </ul>
 
